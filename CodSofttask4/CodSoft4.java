@@ -1,4 +1,4 @@
-// This is the code without Java Usage.
+// This is the code without Java Swing.
 
 package codsoft.task.pkg1.CodSoft_Task;
 
