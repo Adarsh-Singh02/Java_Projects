@@ -1,4 +1,4 @@
-                                                                  Task 1- Number Guessing Game
+                                                           Task 1- Number Guessing Game
 
 Hi guys this my First task I did for CodSoft internship.
 
