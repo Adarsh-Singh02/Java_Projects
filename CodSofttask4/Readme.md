@@ -1,4 +1,4 @@
-Task 4= Quiz Application with Timer
+                                                      Task 4= Quiz Application with Timer
 
 Quiz application is a collection of different quizzes likes technical, General knowledge, English Grammar, Quantitative Aptitude, etc.  
 There will be a limited set of questions and for each correct answer user will be get a credit score.
