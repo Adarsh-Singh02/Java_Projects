@@ -1,4 +1,4 @@
-Task 2- Student Grade Calculator
+                                  Task 2- Student Grade Calculator
 
 Hi guys this is my second task in CodSoft internship. 
 
