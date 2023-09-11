@@ -1,4 +1,4 @@
-                                                                    CodSoft Internship - JAVA Programming
+                                           CodSoft Internship - JAVA Programming
 
 Hello and welcome to the my README.md file for my successful internship at CodSoft! During my internship time at CodSoft, I had the opportunity to work on three important tasks that I contributed to the growth and development of the company and myself.
 
